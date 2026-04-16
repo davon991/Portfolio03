@@ -1,0 +1,39 @@
+{
+  "run_id": "20260416-203809-ea858fd3",
+  "config_file": ".\\configs\\main.yaml",
+  "data_source": "local_csv",
+  "strategies": [
+    "EW",
+    "GMV",
+    "ERC",
+    "CTB_ONLY",
+    "RB_CTB_BAND"
+  ],
+  "output_files": [
+    "results\\runs\\20260416-203809-ea858fd3\\panels\\weights.csv",
+    "results\\runs\\20260416-203809-ea858fd3\\panels\\ctr_long.csv",
+    "results\\runs\\20260416-203809-ea858fd3\\panels\\ctb_long.csv",
+    "results\\runs\\20260416-203809-ea858fd3\\panels\\dr_db_timeseries.csv",
+    "results\\runs\\20260416-203809-ea858fd3\\panels\\objective_terms.csv",
+    "results\\runs\\20260416-203809-ea858fd3\\panels\\turnover_timeseries.csv",
+    "results\\runs\\20260416-203809-ea858fd3\\panels\\perf_daily.csv",
+    "results\\runs\\20260416-203809-ea858fd3\\panels\\solver_trace.csv",
+    "results\\runs\\20260416-203809-ea858fd3\\summaries\\summary_metrics.csv",
+    "results\\runs\\20260416-203809-ea858fd3\\summaries\\diagnostics.json",
+    "results\\runs\\20260416-203809-ea858fd3\\summaries\\analysis_pack.json",
+    "results\\runs\\20260416-203809-ea858fd3\\figures\\fig_01_capital_vs_risk.png",
+    "results\\runs\\20260416-203809-ea858fd3\\figures\\fig_01_capital_vs_risk.pdf",
+    "results\\runs\\20260416-203809-ea858fd3\\figures\\fig_02_dr_db_frontier.png",
+    "results\\runs\\20260416-203809-ea858fd3\\figures\\fig_02_dr_db_frontier.pdf",
+    "results\\runs\\20260416-203809-ea858fd3\\figures\\fig_03_cumulative_nav.png",
+    "results\\runs\\20260416-203809-ea858fd3\\figures\\fig_03_cumulative_nav.pdf",
+    "results\\runs\\20260416-203809-ea858fd3\\figures\\fig_05_ctr_heatmap.png",
+    "results\\runs\\20260416-203809-ea858fd3\\figures\\fig_05_ctr_heatmap.pdf",
+    "results\\runs\\20260416-203809-ea858fd3\\figures\\fig_06_ctb_heatmap.png",
+    "results\\runs\\20260416-203809-ea858fd3\\figures\\fig_06_ctb_heatmap.pdf",
+    "results\\runs\\20260416-203809-ea858fd3\\figures\\fig_07_dr_db_timeseries.png",
+    "results\\runs\\20260416-203809-ea858fd3\\figures\\fig_07_dr_db_timeseries.pdf",
+    "results\\runs\\20260416-203809-ea858fd3\\figures\\fig_10_solver_convergence.png",
+    "results\\runs\\20260416-203809-ea858fd3\\figures\\fig_10_solver_convergence.pdf"
+  ]
+}
