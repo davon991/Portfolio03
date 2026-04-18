@@ -1,6 +1,0 @@
-{
-  "method": "ledoit_wolf",
-  "window_L": 756,
-  "min_periods": 252,
-  "n_rebalance_dates": 97
-}
